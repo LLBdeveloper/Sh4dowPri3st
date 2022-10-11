@@ -1,7 +1,6 @@
 <hr>
 <strong> 💬 < HELLO WORLD >  </strong> 
 <hr>
-<br>
   
 - 🛸 Hi, I’m Lautaro
 - 🌱 I’m currently learning web desin
