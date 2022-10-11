@@ -1,6 +1,6 @@
 
-- 🧠 Hi, I’m Lautaro
-- 🌳 I’m interested in being a full stack developer
+- 🛸 Hi, I’m Lautaro
+- 🔭 I’m interested in being a full stack developer
 - 🌱 I’m currently learning web desin
 - ✨ I’m looking to collaborate on front end project
 
@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 
 🛸
 🧉 
