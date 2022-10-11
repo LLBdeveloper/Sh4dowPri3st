@@ -1,7 +1,7 @@
 
 - 🛸 Hi, I’m Lautaro
-- 🔭 I’m interested in being a full stack developer
 - 🌱 I’m currently learning web desin
+- 🔭 I’m interested in being a full stack developer
 - ✨ I’m looking to collaborate on front end project
 
 
