@@ -6,12 +6,18 @@
 - 🌱 I’m currently learning web desin
 - 🔭 I’m interested in being a full stack developer
 - ✨ I’m looking to collaborate on front end project
-
+<hr>
+  <hr>
+  <hr>
+  <hr>
+  <hr>
+  <hr>
   
   
   
  🧠 I have knowledge is...
-  
+  <hr>
+  <hr><hr>
   
 ⚡HTML5 ⚡⚡⚡⚡⚡⚡                                 
 
