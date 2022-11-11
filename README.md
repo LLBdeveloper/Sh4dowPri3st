@@ -26,11 +26,12 @@
 <br>
 <br>
 <br>
-  <hr>
-  About me :
+<hr>
+  About me...
+<br>
 🦄🦄🦄 - Extreme sports addict - 🦄🦄🦄
-  <br>
-  <br>
+<br>
+<br>
 ⛅️⛅️⛅️ - - - Nature lover - - - ⛅️⛅️⛅️
 
 <hr>
