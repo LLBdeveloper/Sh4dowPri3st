@@ -1,10 +1,10 @@
 
 <strong> 💬 < HELLO WORLD >  </strong> 
 <hr>
-- 🛸 Hi, I’m Lautaro
-- 🌱 I’m currently learning web desin
-- 🔭 I’m interested in being a full stack developer
-- ✨ I’m looking to collaborate on front end project
+- 🛸 Hi, I’m Lautaro <br>
+- 🌱 I’m currently learning web desin<br>
+- 🔭 I’m interested in being a full stack developer<br>
+- ✨ I’m looking to collaborate on front end project<br>
 <hr>
 <br>  
 <br>   
@@ -26,12 +26,12 @@
 <br>
 <br>
 <br>
-  
-🦄 Extreme sports addict
+  <hr>
+🦄🦄🦄 Extreme sports addict 🦄🦄🦄
   <br>
-⛅️ Nature lover
+⛅️⛅️⛅️ Nature lover ⛅️⛅️⛅️
 
-
+<hr>
   
 <!--
 **Sh4dowPri3st/Sh4dowPri3st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
