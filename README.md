@@ -7,12 +7,9 @@
 - ✨ I’m looking to collaborate on front end project
 <hr>
 <br>  
-<br>  
 <br>    
 🧠 I have knowledge is...
-<br>
-<br>
-  
+<br> 
 ⚡HTML5 ⚡⚡⚡⚡⚡⚡                                 
 
 ⚡⚡ CSS3 ⚡⚡⚡⚡⚡
