@@ -1,7 +1,6 @@
-<hr>
+
 <strong> 💬 < HELLO WORLD >  </strong> 
 <hr>
-  
 - 🛸 Hi, I’m Lautaro
 - 🌱 I’m currently learning web desin
 - 🔭 I’m interested in being a full stack developer
@@ -9,10 +8,8 @@
 <hr>
 <br>  
 <br>  
-<br>  
-<br>  
-  
- 🧠 I have knowledge is...
+<br>    
+🧠 I have knowledge is...
 <br>
 <br>
   
