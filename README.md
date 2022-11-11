@@ -8,16 +8,17 @@
 - ✨ I’m looking to collaborate on front end project
 
   
+ 🧠 I have knowledge is...
   
-⚡HTML5 ⚡                                   
+⚡HTML5 ⚡⚡⚡⚡⚡⚡                                 
 
-   ⚡ CSS3 ⚡
+⚡⚡ CSS3 ⚡⚡⚡⚡⚡
 
-        ⚡ BOOTSTRAP ⚡
+⚡⚡⚡ BOOTSTRAP ⚡⚡
 
-            ⚡ GIT ⚡
+⚡⚡⚡ ⚡GIT⚡⚡⚡⚡
 
-                 ⚡GITHUB⚡
+⚡⚡⚡⚡⚡GITHUB⚡⚡
 
 
 <!--
