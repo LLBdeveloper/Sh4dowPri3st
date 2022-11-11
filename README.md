@@ -27,9 +27,9 @@
 <br>
 <br>
   <hr>
-🦄🦄🦄 Extreme sports addict 🦄🦄🦄
+🦄🦄🦄 - Extreme sports addict - 🦄🦄🦄
   <br>
-⛅️⛅️⛅️ Nature lover ⛅️⛅️⛅️
+⛅️⛅️⛅️ - - - Nature lover - - - ⛅️⛅️⛅️
 
 <hr>
   
