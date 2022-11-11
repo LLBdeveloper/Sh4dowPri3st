@@ -22,6 +22,14 @@
 ⚡⚡⚡ ⚡GIT⚡⚡⚡⚡
 
 ⚡⚡⚡⚡⚡GITHUB⚡⚡
+  
+<br>
+<br>
+<br>
+  
+🦄 Extreme sports addict
+  <br>
+⛅️ Nature lover
 
 
   
