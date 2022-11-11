@@ -2,7 +2,7 @@
 <strong> 💬 < HELLO WORLD >  </strong> 
 <hr>
 - 🛸 Hi, I’m Lautaro <br>
-- 🌱 I’m currently learning web desin<br>
+- 🌱 I’m currently learning web desing<br>
 - 🔭 I’m interested in being a full stack developer<br>
 - ✨ I’m looking to collaborate on front end project<br>
 <hr>
