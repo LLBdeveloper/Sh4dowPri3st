@@ -7,17 +7,14 @@
 - 🔭 I’m interested in being a full stack developer
 - ✨ I’m looking to collaborate on front end project
 <hr>
-  <hr>
-  <hr>
-  <hr>
-  <hr>
-  <hr>
-  
-  
+<br>  
+<br>  
+<br>  
+<br>  
   
  🧠 I have knowledge is...
-  <hr>
-  <hr><hr>
+<br>
+<br>
   
 ⚡HTML5 ⚡⚡⚡⚡⚡⚡                                 
 
