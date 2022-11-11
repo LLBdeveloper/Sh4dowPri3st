@@ -9,7 +9,7 @@
 <br>  
 <br>   
   
-🧠 I have knowledge is...
+<strong>🧠 I have knowledge is...</strong>
   
 <br> 
   
@@ -27,7 +27,8 @@
 <br>
 <br>
 <hr>
-  About me...
+ <strong> About me...</strong>
+<br>
 <br>
 🦄🦄🦄 - Extreme sports addict - 🦄🦄🦄
 <br>
