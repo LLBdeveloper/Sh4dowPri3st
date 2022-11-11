@@ -13,15 +13,15 @@
   
 <br> 
 ⚡HTML5 ⚡⚡⚡⚡⚡⚡                                 
-
+<br>
 ⚡⚡ CSS3 ⚡⚡⚡⚡⚡
-
+<br>
 ⚡⚡⚡ BOOTSTRAP ⚡⚡
-
+<br>
 ⚡⚡⚡ ⚡GIT⚡⚡⚡⚡
-
+<br>
 ⚡⚡⚡⚡⚡GITHUB⚡⚡
-
+<br>
 
   
 <!--
