@@ -28,6 +28,8 @@
 ⚡⚡⚡⚡JAVASCRIPT⚡⚡ 
  
 ⚡⚡⚡REACT⚡⚡⚡⚡⚡
+ 
+⚡PYTHON⚡⚡⚡⚡⚡⚡ 
 <br>
 <br>
 <br>
