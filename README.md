@@ -24,6 +24,10 @@
 ⚡⚡⚡⚡⚡GITHUB⚡⚡
 
 ⚡⚡⚡⚡⚡⚡⚡SASS⚡
+  
+⚡⚡⚡⚡JAVASCRIPT⚡⚡ 
+ 
+⚡⚡⚡REACT⚡⚡⚡⚡⚡
 <br>
 <br>
 <br>
