@@ -13,9 +13,9 @@
   
 <br> 
   
-⚡HTML5 ⚡⚡⚡⚡⚡⚡                                 
+⚡ HTML ⚡⚡⚡⚡⚡⚡                                 
 
-⚡⚡ CSS3 ⚡⚡⚡⚡⚡
+⚡⚡ CSS  ⚡⚡⚡⚡⚡
 
 ⚡⚡⚡ BOOTSTRAP ⚡⚡
 
