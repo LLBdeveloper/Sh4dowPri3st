@@ -37,7 +37,9 @@
 
 ⚡ ⚡ MUI ⚡ ⚡ ⚡ ⚡⚡ 
 
-⚡ ⚡ ⚡ TAILWIND⚡ ⚡ 
+⚡ ⚡ ⚡ TAILWIND ⚡ ⚡ 
+
+⚡⚡ ASTRO ⚡⚡⚡⚡⚡
 
 ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ 
 
